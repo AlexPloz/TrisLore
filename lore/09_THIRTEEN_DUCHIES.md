@@ -14,6 +14,10 @@ tags: [empire, duchies, heraldry, illustrations]
 
 ## 1. Ostmur — Marches du Piémont (front Sud)
 
+![Ostmur — illustration héraldique et composant marquant](./images/illustrations/duches/Ostmur.png)
+
+*Illustration d’Ostmur : le rempart des Gués et la résistance de l’infanterie lourde. Statut : draft — support visuel du duché et de son héraldique.*
+
 **Duc** : Roland d’Ostmur, dit « le Mur » (58 ans).
 **Blason** : rempart crénelé d’or sur fond noir.
 **Spécialité** : infanterie lourde, piquiers de muraille.
@@ -44,6 +48,10 @@ Le rempart des Gués est une fortification avancée protégeant les routes du Su
 
 ## 2. Carvence — Marches du Piémont (front Sud)
 
+![Carvence — illustration héraldique et composant marquant](./images/illustrations/duches/Carvence.png)
+
+*Illustration de Carvence : les greniers fortifiés et les convois du Sud. Statut : draft — support visuel du duché et de son héraldique.*
+
 **Duchesse** : Isabeau de Carvence (26 ans), héritière depuis la mort de son père à Fort-Guivre.
 **Blason** : épi et épée croisés, argent sur fond vert.
 **Spécialité** : escortes de convois, grenier du Sud.
@@ -72,6 +80,10 @@ Les Greniers de Carvence forment un réseau de magasins fortifiés reliés aux r
 **Fait marquant** : le duché apparaît comme le grenier du front : la récolte n’est pas seulement une richesse, mais une ressource militaire constamment menacée.
 
 ## 3. Hautvent — Marches du Piémont (front Sud)
+
+![Hautvent — illustration héraldique et composant marquant](./images/illustrations/duches/Hautvent.png)
+
+*Illustration de Hautvent : les archers montés surveillant les cols. Statut : draft — support visuel du duché et de son héraldique.*
 
 **Duc** : Thibaut de Hautvent (44 ans), cavalier à la langue acérée.
 **Blason** : faucon de bronze sur fond bleu.
@@ -102,6 +114,10 @@ Les cols de Hautvent sont des passages élevés surveillés par des tours de gue
 
 ## 4. Aubemont — Val des Pèlerins (front Est)
 
+![Aubemont — illustration héraldique et composant marquant](./images/illustrations/duches/Aubemont.png)
+
+*Illustration d’Aubemont : la route des pèlerins et les bornes de veille. Statut : draft — support visuel du duché et de son héraldique.*
+
 **Duc** : Clément d’Aubemont (61 ans), pieux, lettré et goutteux.
 **Blason** : demi-soleil d’or sur fond blanc.
 **Spécialité** : escortes de pèlerinage, arbalétriers de chapelle.
@@ -130,6 +146,10 @@ La Route des Sept Bornes est un chemin sacré jalonné de pierres gravées et de
 **Fait marquant** : la dernière borne est brisée et porte des traces de combat. Malgré cela, la lanterne qui la surmonte reste allumée.
 
 ## 5. Valombre — Champs-Dolents (front Est)
+
+![Valombre — illustration héraldique et composant marquant](./images/illustrations/duches/Valombre.png)
+
+*Illustration de Valombre : la Maison de Veille et ses lanternes contre les morts. Statut : draft — support visuel du duché et de son héraldique.*
 
 **Duchesse** : Mathilde de Valombre (49 ans), veuve, froide et respectée.
 **Blason** : lanterne d’argent sur fond violet sombre.
@@ -160,6 +180,10 @@ Les Maisons de Veille sont des fortins funéraires où les morts sont surveillé
 
 ## 6. Sernes — Marais des Roseaux (front Est)
 
+![Sernes — illustration héraldique et composant marquant](./images/illustrations/duches/Sernes.png)
+
+*Illustration de Sernes : les chaussées de roseaux et les brûleurs des marais. Statut : draft — support visuel du duché et de son héraldique.*
+
 **Duc** : Baudouin de Sernes, dit « le Sec » (55 ans).
 **Blason** : torche noire sur fond or.
 **Spécialité** : guides des marais, brûleurs — a incendié trois villages contaminés en 2599.
@@ -188,6 +212,10 @@ Les Chaussées de Roseaux sont des digues étroites traversant les marais. Elles
 **Fait marquant** : au loin, trois villages incendiés apparaissent sous forme de silhouettes fumantes. La scène suggère la brutalité de la décision sans montrer de violence gratuite.
 
 ## 7. Port-Maréal — Côte du Sel (Ouest)
+
+![Port-Maréal — illustration héraldique et composant marquant](./images/illustrations/duches/Port-Maréal.png)
+
+*Illustration de Port-Maréal : les salines, le port et les marins-soldats. Statut : draft — support visuel du duché et de son héraldique.*
 
 **Duchesse** : Ysoline de Maréal (52 ans), armatrice, la plus riche des Quatorze.
 **Blason** : nef d’argent sur fond bleu-vert ondé.
@@ -247,6 +275,10 @@ Le Trésor des Trois Quais est un complexe de comptoirs et d’entrepôts instal
 
 ## 9. Corvelle — Haute-Lisière (Forêts)
 
+![Corvelle — illustration héraldique et composant marquant](./images/illustrations/duches/Corvelle.png)
+
+*Illustration de Corvelle : la Haute-Lisière et les postes forestiers. Statut : draft — support visuel du duché et de son héraldique.*
+
 **Duc** : Renaud de Corvelle (39 ans), chasseur — son équipée de 2608 a tué un gardien elfe.
 **Blason** : cerf d’argent sur fond vert sombre.
 **Spécialité** : forestiers, archers d’affût.
@@ -275,6 +307,10 @@ La Haute-Lisière est une ligne de postes forestiers qui sépare les terres huma
 **Fait marquant** : une cloche suspendue à la tour et un registre ouvert montrent le rôle de surveillance permanente de la Haute-Lisière.
 
 ## 10. Granmont — Piémont des Monts-Ferrés (Montagnes)
+
+![Granmont — illustration héraldique et composant marquant](./images/illustrations/duches/Granmont.png)
+
+*Illustration de Granmont : la porte des galeries et la guerre souterraine. Statut : draft — support visuel du duché et de son héraldique.*
 
 **Duc** : Hugues de Granmont (63 ans), seul humain que le roi Dorgan tolère à sa table.
 **Blason** : pic de mineur d’argent sur fond brun.
@@ -305,6 +341,10 @@ La Porte de Granmont est l’entrée fortifiée des grandes galeries. Elle abrit
 
 ## 11. Valcrène — Marches-Rompues (Nord, loyale)
 
+![Valcrène — illustration héraldique et composant marquant](./images/illustrations/duches/Valcrène.png)
+
+*Illustration de Valcrène : la tour de la veille dans les cols du Nord. Statut : draft — support visuel du duché et de son héraldique.*
+
 **Duchesse** : Aliénor de Valcrène (57 ans), dure et économe de mots.
 **Blason** : tour d’argent sous une étoile sur fond bleu nuit.
 **Spécialité** : arbalétriers de montagne, garnisons d’hiver.
@@ -334,6 +374,10 @@ La Tour de la Veille est une forteresse d’hiver construite sur un col. Ses feu
 
 ## 12. Fervac — Marches-Rompues (Nord, loyauté surveillée)
 
+![Fervac — illustration héraldique et composant marquant](./images/illustrations/duches/Fervac.png)
+
+*Illustration de Fervac : les chenils de la traque et la cavalerie légère. Statut : draft — support visuel du duché et de son héraldique.*
+
 **Duc** : Gauthier Fervac, dit « le Vieux Loup » (66 ans). Deux cousins siègent à la Ligue de Vercresse.
 **Blason** : tête de loup grise sur fond rouge sombre.
 **Spécialité** : cavalerie légère de traque.
@@ -362,6 +406,10 @@ Les Chenils de la Traque forment un réseau de relais pour cavalerie légère, c
 **Fait marquant** : une chaîne noire est intégrée au cadre héraldique, mais presque dissimulée derrière le loup, rappelant la loyauté surveillée et l’ambiguïté politique de Fervac.
 
 ## 13. Brumeval — Marches-Rompues (Nord, verrou du Nord)
+
+![Brumeval — illustration héraldique et composant marquant](./images/illustrations/duches/Brumeval.png)
+
+*Illustration de Brumeval : le Grand Pont et ses mécanismes de défense. Statut : draft — support visuel du duché et de son héraldique.*
 
 **Duc** : Enguerrand de Brumeval (51 ans), ingénieur de formation, taciturne.
 **Blason** : pont d’argent sur fond gris-vert.
