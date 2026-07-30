@@ -9,6 +9,10 @@ tags: [empire, capital, city]
 
 # Tris, la cité impériale
 
+![Plan de Tris, la cité impériale](./images/plan_cite_imperiale.png)
+
+*Plan illustré de Tris. Statut : draft — support visuel de la structure concentrique et des quartiers ; l’image ne remplace pas les descriptions canoniques du texte.*
+
 ## Résumé
 > Statut : canon
 

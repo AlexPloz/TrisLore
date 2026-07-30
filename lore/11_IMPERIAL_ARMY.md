@@ -9,6 +9,10 @@ tags: [human, empire, military]
 
 # L'armée impériale
 
+![Soldat impérial de haut rang devant Tris](./images/illustrations/human.png)
+
+*Représentation d’un soldat impérial de haut rang devant le pont de Tris. Statut : draft — l’illustration représente l’esthétique militaire, l’autorité impériale et la symbolique de la Balance ; elle ne définit pas un grade, une unité ou un personnage précis.*
+
 ## Principe : deux armées, une balance
 > Statut : draft
 
