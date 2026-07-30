@@ -34,12 +34,12 @@ Cœur : la forêt d'Ambrevaille (ouest). D'autres bois, dispersés sur tout le c
 - **Les Gardiens de l'Orée** : les radicaux de lisière. Cheffe : **Sévrane l'Épine**.
 - **Les Défeuillés** : exilés et brisés ; la plupart des humains ne voient un elfe que sous leurs traits, d'où bien des malentendus.
 
-  ![Les Défeuillés — illustration de faction](./images/illustrations/renegats/Les Défeuillés.png)
+  ![Les Défeuillés — illustration de faction](./images/illustrations/renegats/defeuilles.png)
 
   *Illustration des Défeuillés : des elfes exilés vivant parmi les traces d’une forêt perdue. Statut : draft — support visuel de la faction ; aucun détail physique, culturel ou historique non validé n’est canonisé.*
 - **Les Ronces** : minorité liée aux dieux noirs, surtout Atara. Traqués durement par les autres elfes.
 
-  ![Les Ronces — illustration de faction](./images/illustrations/renegats/Les Ronces.png)
+  ![Les Ronces — illustration de faction](./images/illustrations/renegats/ronces.png)
 
   *Illustration des Ronces : un culte elfique lié aux dieux noirs et à la sève, dans une clairière envahie par les ronces. Statut : draft — support visuel de la faction ; l’image ne canonise pas les détails religieux, physiques ou architecturaux représentés.*
 
@@ -52,6 +52,12 @@ Cœur : la forêt d'Ambrevaille (ouest). D'autres bois, dispersés sur tout le c
 
 ## Religion
 > Statut : draft
+
+### Faits marquants proposés
+
+- Les Défeuillés pourraient conserver des fragments d’écorce provenant de leurs anciennes forêts et planter une graine au centre de chaque camp.
+- Les Ronces pourraient greffer des ronces sur d’anciens arbres sacrés et transformer ces lieux de mémoire en clairières de banquet liées à Atara.
+- Les marques naturelles laissées par les elfes — feuilles, fougères, entailles dans l’écorce — ne constitueraient pas une héraldique commune.
 
 Pas de dieux au sens humain : des Aînés — arbres-mères, bêtes premières, rivières nommées — et le Chant. Blasphème elfe : couper sans rendre, tuer sans manger, bâtir sans demander.
 
