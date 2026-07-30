@@ -9,6 +9,10 @@ tags: [dwarves, mountains, south, neutral]
 
 # Les nains des montagnes
 
+![Les nains des montagnes — illustration de faction](./images/illustrations/nain.png)
+
+*Illustration des nains des montagnes : forteresses souterraines, mémoire des Aînés et puissance de la pierre. Statut : draft — support visuel du peuple nain ; l’image ne canonise pas l’héraldique proposée ni les détails physiques, culturels ou architecturaux représentés.*
+
 ## Canon
 > Statut : canon
 

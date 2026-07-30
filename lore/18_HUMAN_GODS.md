@@ -16,6 +16,10 @@ tags: [religion, human, mitra, mahra, mola]
 - **Mythe de Mitra** : issu de l'argile → pierre → lumière. Ordre intangible.
 
 ## Mitra — la Lampe
+
+![Autel de Mitra — la Lampe](./images/illustrations/dieux/Mitra.png)
+
+*Illustration de l’autel de Mitra : la lampe, la transmission du savoir et le passage de l’argile à la pierre puis à la lumière. Statut : draft — support visuel du culte ; l’image ne canonise pas les détails de l’autel ni du rite représenté.*
 > Statut : draft
 
 **Le Récit des Trois États** : l'argile apprit et se tint — elle devint pierre. La pierre garda et comprit — elle devint lumière : Mitra. La voie : apprendre, se tenir, garder, s'éclairer.
@@ -25,6 +29,10 @@ tags: [religion, human, mitra, mahra, mola]
 Divergences doctrinales vivantes : École du Potier (l'argile est l'état saint — humilité de l'élève), École du Tailleur (la pierre est l'état saint — discipline, loi), École de la Flamme (la lumière seule compte — surveillée par l'orthodoxie).
 
 ## Mahra — l'Eau qui lie
+
+![Autel de Mahra — l’Eau qui lie](./images/illustrations/dieux/Mahra.png)
+
+*Illustration de l’autel de Mahra : l’eau, les liens entre les êtres et les rites de passage. Statut : draft — support visuel du culte ; l’image ne canonise pas les détails de l’autel ni du rite représenté.*
 > Statut : draft
 
 Domaines : l'amour sous toutes ses charges ; l'eau sous toutes ses formes. Rites de passage (première eau du nouveau-né, mains liées sous l'eau des époux, toilette des morts). Au cœur de la **Question des Cendres** : rendre les corps à la terre et à l'eau est sa voie.
@@ -32,6 +40,10 @@ Domaines : l'amour sous toutes ses charges ; l'eau sous toutes ses formes. Rites
 **Symbole** : la vague dans l'anneau. **Fête** : les Eaux-Hautes (printemps) — barquettes portant vœux et dettes pardonnées confiées aux rivières.
 
 ## Mola — le Feu qui garde et qui dévore
+
+![Autel de Mola — le Feu qui garde et qui dévore](./images/illustrations/dieux/Mola.png)
+
+*Illustration de l’autel de Mola : l’enclume, les cinq feux et la maîtrise du feu protecteur comme du feu dévorant. Statut : draft — support visuel du culte ; l’image ne canonise pas les détails de l’autel ni du rite représenté.*
 > Statut : draft
 
 Les cinq feux : du foyer (protecteur), de forge (créateur), purificateur (juge — feu revendiqué à l'Est, cœur de la Question des Cendres), de guerre (le courage), dévorant (l'avertissement). Le fidèle apprend à craindre le feu dévorant en lui-même.

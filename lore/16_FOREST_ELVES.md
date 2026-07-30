@@ -9,6 +9,10 @@ tags: [elves, forests, neutral]
 
 # Les elfes des forêts
 
+![Les elfes des forêts — illustration de faction](./images/illustrations/elf.png)
+
+*Illustration des elfes des forêts : une communauté liée aux arbres, aux animaux et au Chant. Statut : draft — support visuel du peuple elfe ; aucune héraldique ni aucun détail physique, culturel ou architectural non validé n’est canonisé.*
+
 ## Canon
 > Statut : canon
 
@@ -29,7 +33,15 @@ Cœur : la forêt d'Ambrevaille (ouest). D'autres bois, dispersés sur tout le c
 - **Le Concile des Ramures** : l'autorité des grandes familles. Voix dominante : l'**Aînée Séliane**, qui a connu la chute de Karvedan et n'en parle jamais.
 - **Les Gardiens de l'Orée** : les radicaux de lisière. Cheffe : **Sévrane l'Épine**.
 - **Les Défeuillés** : exilés et brisés ; la plupart des humains ne voient un elfe que sous leurs traits, d'où bien des malentendus.
+
+  ![Les Défeuillés — illustration de faction](./images/illustrations/renegats/Les Défeuillés.png)
+
+  *Illustration des Défeuillés : des elfes exilés vivant parmi les traces d’une forêt perdue. Statut : draft — support visuel de la faction ; aucun détail physique, culturel ou historique non validé n’est canonisé.*
 - **Les Ronces** : minorité liée aux dieux noirs, surtout Atara. Traqués durement par les autres elfes.
+
+  ![Les Ronces — illustration de faction](./images/illustrations/renegats/Les Ronces.png)
+
+  *Illustration des Ronces : un culte elfique lié aux dieux noirs et à la sève, dans une clairière envahie par les ronces. Statut : draft — support visuel de la faction ; l’image ne canonise pas les détails religieux, physiques ou architecturaux représentés.*
 
 ## La haine des nains
 > Statut : draft (cause à valider — voir 31_OPEN_QUESTIONS)

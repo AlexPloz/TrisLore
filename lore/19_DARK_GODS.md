@@ -17,6 +17,10 @@ tags: [religion, dark_gods, cults]
 - La majorité des renégats a simplement abandonné les dieux humains.
 
 ## Azura — le Manteau de mensonges
+
+![Autel d’Azura — le Manteau de mensonges](./images/illustrations/dieux/Azura.png)
+
+*Illustration de l’autel d’Azura : les faux sceaux, les identités substituées et le nœud défait du Serment-Vide. Statut : draft — support visuel du culte ; l’image ne résout pas la doctrine ni ne canonise les détails représentés.*
 > Statut : draft
 
 Doctrine : toute vérité est un déguisement plus grand. Le serment est la plus belle des serrures — il suffit d'en posséder la clef. Azura enseigne la *substitution* : prendre la place, le nom, le sceau, la vie d'un autre.
@@ -24,6 +28,10 @@ Doctrine : toute vérité est un déguisement plus grand. Le serment est la plus
 **Culte** : le **Serment-Vide** (faction_empty_oath), dirigé par « le Parjure ». Faux prophètes, serments retournés, agents dormants. Signe de reconnaissance : un nœud défait cousu sous le col.
 
 ## Atara — la Coupe sans fond
+
+![Autel d’Atara — la Coupe sans fond](./images/illustrations/dieux/Atara.png)
+
+*Illustration de l’autel d’Atara : l’excès, la table servie et la dette des Cours des Soifs. Statut : draft — support visuel du culte ; l’image ne canonise pas les détails du rite ni de la mise en scène.*
 > Statut : draft
 
 Doctrine : le monde est une table servie ; le péché est de se lever avant la fin. Tout plaisir est une prière ; l'assouvir est le rite ; la soif revient — c'est la fidélisation.
@@ -33,6 +41,10 @@ Doctrine : le monde est une table servie ; le péché est de se lever avant la f
 **Chez les elfes** : les Ronces greffent Atara sur le culte de la sève.
 
 ## L'Innommé — le cartouche vide
+
+![Autel de l’Innommé — le cartouche vide](./images/illustrations/dieux/L’Innommé.png)
+
+*Illustration de l’autel de l’Innommé : une absence encadrée, des icônes martelées et le silence des Bouches-Cousues. Statut : draft — support visuel volontairement incomplet ; l’image ne révèle ni ne résout jamais ce que le cartouche contient.*
 > Statut : draft
 
 **Identifiant technique** : dark_deity_mazda (documentation uniquement).
