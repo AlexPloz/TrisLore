@@ -9,6 +9,10 @@ tags: [orcs, goblins, south, war]
 
 # Orques et gobelins
 
+![Scène cérémonielle orque et gobeline](./images/illustrations/orcgoblins.png)
+
+*Illustration d’une scène orque et gobeline. Statut : draft — représentation visuelle de la domination brutale de l’orc et de la servilité fourbe du gobelin ; l’image ne valide pas automatiquement les détails physiques, vestimentaires ou culturels représentés.*
+
 ## Canon
 > Statut : canon
 
