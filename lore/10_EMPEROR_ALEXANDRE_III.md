@@ -24,6 +24,10 @@ Né 2555, second fils d'Aldemar IV. Couronné en 2588, à 33 ans. 54 ans en 2609
 
 Grand, sec, dos droit. Cheveux gris coupés court, barbe taillée. Cicatrice à la main gauche, souvenir des Gués. Petite lampe d'argent de Mitra au cou. Manteau gris et blanc en audience ; la balance d'or n'apparaît qu'en cérémonie. Il déteste qu'on le peigne en armure dorée — les ateliers le font quand même.
 
+![Illustration d'Alexandre III](images/alexandre_iii_illustration.png)
+
+*Illustration associée à Alexandre III. Statut : draft — représentation visuelle, sans valeur supplémentaire sur les faits canoniques ou l'identité proposée.*
+
 ## Tempérament
 > Statut : draft
 
