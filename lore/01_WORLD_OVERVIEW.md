@@ -23,6 +23,10 @@ Les prêtres de Mitra appellent parfois le monde « la Grande Argile », en réf
 
 Le continent connu porte, en proposition principale, le nom de **Trémarche** — « les Trois Marches », d'après les trois frontières de guerre (sud, est, nord). Autres propositions : **Bastagne**, **Vallonde**.
 
+![Carte illustrée de Trémarche](./images/illustrations/Tremarche.png)
+
+*Carte illustrée de Trémarche en l’an 2609, dans un style de gravure médiévale. Statut : draft — support visuel de la géographie générale ; l’image ne remplace pas les descriptions canoniques et ne canonise pas les détails cartographiques non validés.*
+
 Sa structure canonique (v2) :
 - Au centre et à l'ouest : l'Empire humain, ses treize grandes villes ducales et Tris, la cité impériale.
 - **Au sud** : la chaîne des Monts-Ferrés, domaine des nains ; au-delà, les terres de la Morsure d'où déferlent les hordes d'orques et de gobelins, par les cols et par la brèche de Karvedan.

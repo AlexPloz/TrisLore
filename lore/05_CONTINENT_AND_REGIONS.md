@@ -11,6 +11,10 @@ tags: [geography, regions]
 
 Treize grandes régions. Géographie canon v2 : **orques au sud** (au-delà des Monts-Ferrés) ; **nains dans les montagnes du sud** ; **morts-vivants à l'est** ; **renégats au nord** ; **elfes dispersés dans les forêts**. Deux mers : à l'ouest (Côte du Sel) et à l'est (mer du Levant). Tous les noms sont draft.
 
+![Carte schématique de Trémarche en 2609](./images/carte_tremarche_v2_an_2609.png)
+
+*Carte schématique de Trémarche en l’an 2609, présentant les régions, les principales villes et les fronts. Statut : draft — outil de repérage géographique à comparer aux textes ; l’image ne remplace pas les descriptions canoniques et ne canonise pas les détails non validés.*
+
 ## 1. La Couronne — region_crown_lands
 Plaines fertiles autour de Tris, la cité impériale, au cœur du bassin de la Sérande. Ressources : blé, vignes, administration. Menaces : intrigues, guildes de voleurs infiltrées. Niveau : zone de départ / hub politique.
 
