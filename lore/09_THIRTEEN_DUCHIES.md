@@ -246,6 +246,10 @@ Les Salines de Maréal sont des bassins côtiers protégés par des digues et de
 
 ## 8. Bellerive — Val de Sérande (Centre)
 
+![Bellerive — illustration héraldique et composant marquant](./images/illustrations/duches/Bellerive.png)
+
+*Illustration de Bellerive : le Trésor des Trois Quais, ses compagnies fluviales et l’or qui paie les mercenaires. Statut : draft — support visuel du duché et de son héraldique ; l’image ne canonise pas les détails architecturaux, militaires ou commerciaux représentés.*
+
 **Duc** : Amaury de Bellerive (47 ans), beau-frère de l’empereur, banquier des Quatorze.
 **Blason** : trois besants d’or disposés en triangle sur fond vert.
 **Spécialité** : compagnies fluviales, l’or qui paie les mercenaires.
